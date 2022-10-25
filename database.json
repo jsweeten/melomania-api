@@ -1,0 +1,142 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Justin Sweeten",
+            "email": "jtsweeten@gmail.com",
+            "admin": true
+        },
+        {
+            "id": 2,
+            "name": "Shrimply Pibbles",
+            "email": "allhailgathorplthorp.com",
+            "admin": true
+        },
+        {
+            "id": 3,
+            "name": "Guy Fieri",
+            "email": "mayorofflavortown@aol.com",
+            "admin": false
+        },
+        {
+            "id": 4,
+            "name": "Alexander Dane",
+            "email": "byGrabtharsHammer@netscape.net",
+            "admin": true
+        },
+        {
+            "id": 5,
+            "name": "Peggy Hill",
+            "email": "awHank92@gmail.com",
+            "admin": false
+        },
+        {
+            "id": 6,
+            "name": "Joan of Arc",
+            "email": "girlisonfire@firefox.com",
+            "admin": false
+        },
+        {
+            "id": 7,
+            "name": "William Murray",
+            "email": "whataboutbob@yahoo.com",
+            "admin": true
+        },
+        {
+            "id": 8,
+            "name": "Tony Hawk",
+            "email": "prosk8er4real@gmail.com",
+            "admin": false
+        },
+        {
+            "id": 9,
+            "name": "Joseph Diffie",
+            "email": "johndeeregreen@netscape.net",
+            "admin": false
+        },
+        {
+            "id": 10,
+            "name": "Hank Williams",
+            "email": "allUrRowdyFriends@aol.com",
+            "admin": true
+        },
+        {
+            "id": 11,
+            "name": "Robin Williams",
+            "email": "hotjambalaya@disney.com",
+            "admin": false
+        },
+        {
+            "id": 12,
+            "name": "Richard Sanchez",
+            "email": "worldender42@yahoo.com",
+            "admin": true
+        },
+        {
+            "id": 13,
+            "name": "Lance Bass",
+            "email": "outofSYNC@gmail.com",
+            "admin": false
+        },
+        {
+            "id": 14,
+            "name": "Davey Crockett",
+            "email": "kingofthewildfrontier@compaq.com",
+            "admin": false
+        },
+        {
+            "id": 15,
+            "name": "Bo Diddley",
+            "email": "SchmoSchmiddley@netscape.net",
+            "admin": false
+        },
+        {
+            "id": 16,
+            "name": "Eric Clapton",
+            "email": "literallyEricClapton@gmail.com",
+            "admin": false
+        },
+        {
+            "id": 17,
+            "name": "Johnathan Adams",
+            "email": "POTUSnumeroDOS@aol.com",
+            "admin": false
+        },
+        {
+            "id": 18,
+            "name": "Larry Byrd",
+            "email": "BallAllDay@yahoo.com",
+            "admin": false
+        },
+        {
+            "id": 19,
+            "name": "Joe Walsh",
+            "email": "joewalsh72@gmail.com",
+            "admin": false
+        },
+        {
+            "id": 20,
+            "name": "George Foreman",
+            "email": "George4man@microsoft.com",
+            "admin": false
+        }
+    ],
+    "albums": [
+        {
+            "id": 1,
+            "title": "Dark Side of the Moon",
+            "artist": "Pink Floyd",
+            "year": 1973,
+            "coverArt": "https://www.discogs.com/release/1873013-Pink-Floyd-The-Dark-Side-Of-The-Moon/image/SW1hZ2U6MjQyOTA4MjA=",
+            "notes": "One of my favorite records of all time. I got this from my grandfather for my 15th birthday"
+        },
+        {
+            "id": 2,
+            "title": "The Beatles (White Album)",
+            "artist": "The Beatles",
+            "year": 1968,
+            "coverArt": "https://commons.wikimedia.org/wiki/File:TheBeatles68LP.jpg#/media/File:TheBeatles68LP.jpg",
+            "notes": "Found at a yard sale in 2009"
+        }
+    ]
+}
