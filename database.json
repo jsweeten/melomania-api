@@ -168,7 +168,8 @@
       "artist": "Pink Floyd",
       "year": 1973,
       "coverArt": "https://i.discogs.com/mwWMy1jLJhX7BGUigOAzbMQjmN6y2a9ppdzulDAUYSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/MTMtMTQ3MTEwMDM4/MS0zMDIyLmpwZWc.jpeg",
-      "notes": "One of my favorite records of all time. I got this from my grandfather for my 15th birthday"
+      "notes": "One of my favorite records of all time. I got this from my grandfather for my 14th birthday",
+      "userId": 3
     },
     {
       "id": 2,
@@ -176,7 +177,8 @@
       "artist": "The Beatles",
       "year": 1968,
       "coverArt": "https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg",
-      "notes": "Found at a yard sale in 2009"
+      "notes": "Found at a yard sale in 2010",
+      "userId": 2
     },
     {
       "id": 3,
@@ -184,7 +186,8 @@
       "artist": "Steely Dan",
       "year": 1977,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/49/Aja_album_cover.jpg",
-      "notes": "Received as a gift for my 31st birthday"
+      "notes": "Received as a gift for my 31st birthday",
+      "userId": 3
     },
     {
       "id": 4,
@@ -192,7 +195,8 @@
       "artist": "The Beatles",
       "year": 1977,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f7/TheBeatlesLoveSongsalbumcover.jpg",
-      "notes": "Received as a gift for my 33rd birthday"
+      "notes": "Received as a gift for my 33rd birthday",
+      "userId": 1
     },
     {
       "id": 5,
@@ -200,7 +204,8 @@
       "artist": "George Benson",
       "year": 1978,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b0/George_Benson_Weekend_in_LA.jpg",
-      "notes": "Live album recorded at the Roxy Theatre in West Hollywood CA. Purchased at McKay's in Nashville TN."
+      "notes": "Live album recorded at the Roxy Theatre in West Hollywood CA. Purchased at McKay's in Nashville TN.",
+      "userId": 1
     },
     {
       "title": "Greatest Hits 1974-78",
@@ -208,7 +213,899 @@
       "year": 1978,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/10/SMB_Greatest_Hits-1974-78.jpg",
       "notes": "Great album from a great band! Purchased at McKay's in Nashville TN",
-      "id": 6
+      "id": 6,
+      "userId": 7
+    },
+    {
+      "title": "One of These Nights",
+      "artist": "Eagles",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/30/The_Eagles_-_One_of_These_Nights.jpg",
+      "notes": "Purchased from Tres Gatos in Jamaica Plains from my wife as a gift for joining an Eagles tribute",
+      "id": 7,
+      "userId": 1
+    },
+    {
+      "title": "Desperado",
+      "artist": "Eagles",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Eagles_-_Desperado.jpg",
+      "notes": "Received as a gift when I joined an Eagles Tribute",
+      "id": 8,
+      "userId": 13
+    },
+    {
+      "title": "Elvis is Back!",
+      "artist": "Elvis Presley",
+      "year": 1960,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/6/64/Elvis_is_Back%21.jpg",
+      "notes": "Found in my grandparents basement in 2006",
+      "id": 9,
+      "userId": 19
+    },
+    {
+      "title": "L. A. Woman",
+      "artist": "The Doors",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/41/The_Doors_-_L.A._Woman.jpg",
+      "notes": "Greatest Doors album of all time! Found at Grimey's East in Nashville TN",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg",
+      "notes": "Bought at Virgin Records in Manhattan NY 1981",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "But Seriously, Folks",
+      "artist": "Joe Walsh",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/75/Joe_Walsh_-_But_Seriously_Folks.jpg",
+      "notes": "Bought and signed at Joe's concert in 1982!",
+      "userId": 19,
+      "id": 12
+    },
+    {
+      "title": "The Smoker You Drink, the Player You Get",
+      "artist": "Joe Walsh",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c3/Joe_Walsh_-_The_Smoker_You_Drink%2C_the_Player_You_Get.jpg",
+      "notes": "Used to listen to this with my grandfather growing up. I never understood the title until I got older...",
+      "userId": 18,
+      "id": 13
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+      "notes": "LOVE LOVE LOVE this album I've been listening to it several times a month since I bought it in 1992",
+      "userId": 14,
+      "id": 14
+    },
+    {
+      "title": "Saturday Night Fever",
+      "artist": "Bee Gees, Various Artists",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0c/TheBeeGeesSaturdayNightFeveralbumcover.jpg",
+      "notes": "Soundtrack album from the film Saturday Night Fever. One of the top ten best-selling albums of all time!",
+      "userId": 14,
+      "id": 15
+    },
+    {
+      "title": "Bluegrass Revue",
+      "artist": "Various Artists",
+      "year": 1972,
+      "coverArt": "https://i.discogs.com/OTEtE18tnibmgB3R99B6Cg8xksYnvxEwV-JT9KYbw4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzI4/MDQtMTQxNjY4NTc4/NS02NTAyLmpwZWc.jpeg",
+      "notes": "Picked up at McKay's in Nashville TN",
+      "userId": 14,
+      "id": 16
+    },
+    {
+      "title": "The Bodyguard: Original Soundtrack Album",
+      "artist": "Whitney Houston, Various Artists",
+      "year": 1992,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f3/TheBodyguardSoundtrack.jpg",
+      "notes": "One of the best-selling albums of all time. Whitney is killing it!",
+      "userId": 13,
+      "id": 17
+    },
+    {
+      "title": "Time Out",
+      "artist": "Dave Brubeck Quartet",
+      "year": 1959,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e5/Time_out_album_cover.jpg",
+      "notes": "First jazz album to ever sell one million copies! Truly a historic record.",
+      "userId": 13,
+      "id": 18
+    },
+    {
+      "title": "I'm Your Baby Tonight",
+      "artist": "Whitney Houston",
+      "year": 1990,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a3/Whitney_Houston_I%27m_Your_Baby_Tonight_Cover.jpg",
+      "notes": "Bought during my first date with my now husband in 1991. So many memories!",
+      "userId": 17,
+      "id": 19
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+      "notes": "One of the best-selling albums of all time. Now Beat It!",
+      "userId": 17,
+      "id": 20
+    },
+    {
+      "title": "Van Halen",
+      "artist": "Van Halen",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg",
+      "notes": "Melted my little ten year old brain when I heard Eddie play. So influential!",
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "title": "Van Halen II",
+      "artist": "Van Halen",
+      "year": 1979,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/35/Van_Halen_-_Van_Halen_II.jpg",
+      "notes": "Certified 5x Platinum. Eddie does it again",
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "title": "Women and Children First",
+      "artist": "Van Halen",
+      "year": 1980,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/eb/Van_Halen_-_Women_and_Children_First.jpg",
+      "notes": "Third studio album. The hits keep coming!",
+      "userId": 20,
+      "id": 23
+    },
+    {
+      "title": "1984",
+      "artist": "Van Halen",
+      "year": 1984,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/5f/Van_Halen_-_1984.jpg",
+      "notes": "Last full-length VH album to feature all four original members",
+      "userId": 7,
+      "id": 24
+    },
+    {
+      "title": "For Unlawful Carnal Knowledge",
+      "artist": "Van Halen",
+      "year": 1991,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/71/Van_Halen_-_For_Unlawful_Carnal_Knowledge.jpg",
+      "notes": "Ehh Sammy is alright",
+      "userId": 2,
+      "id": 25
+    },
+    {
+      "title": "E. T. the Extra Terrestrial (Soundtrack)",
+      "artist": "John Williams",
+      "year": 1982,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/83/E.T._the_Extra-Terrestrial_%28soundtrack%29.jpg",
+      "notes": "Academy Award for Best Original Score, Grammy Award for Best Score Soundtrack for Visual Media. Classic John Williams",
+      "userId": 3,
+      "id": 26
+    },
+    {
+      "title": "Forever, Michael",
+      "artist": "Michael Jackson",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/8a/Forever%2C_Michael.png",
+      "notes": "Bought in Philadelphia in 1977. Afros were still cool!",
+      "userId": 4,
+      "id": 27
+    },
+    {
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "year": 1980,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ACDC_Back_in_Black_cover.svg",
+      "notes": "One of the best rock albums ever! Bought in 1994 on Sunset Strip",
+      "userId": 5,
+      "id": 28
+    },
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+      "notes": "Got me through some tough times. Thank you Stevie!",
+      "userId": 6,
+      "id": 29
+    },
+    {
+      "title": "Fleetwood Mac",
+      "artist": "Fleetwood Mac",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b1/Fleetwood_Mac_-_Fleetwood_Mac_%281975%29.png",
+      "notes": "Their SECOND eponymous album, the other being in 1968 also known as \"The White Album\"",
+      "userId": 7,
+      "id": 30
+    },
+    {
+      "title": "Appetite For Destruction",
+      "artist": "Guns 'N' Roses",
+      "year": 1987,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg",
+      "notes": "You're in the jungle baby!",
+      "userId": 8,
+      "id": 31
+    },
+    {
+      "title": "G N' R Lies",
+      "artist": "Guns 'N' Roses",
+      "year": 1988,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/ad/GNR_GNRLies_Original.jpg",
+      "notes": "Super short album. Only 33 and a half minutes!",
+      "userId": 9,
+      "id": 32
+    },
+    {
+      "title": "Use Your Illusion",
+      "artist": "Guns 'N' Roses",
+      "year": 1991,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ea/GnR--UseYourIllusion1.jpg",
+      "notes": "Bought at Virgin Records 1993 Orlando FL",
+      "userId": 10,
+      "id": 33
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+      "notes": "Revolutionary for their time. George Martin is a visionary",
+      "userId": 11,
+      "id": 34
+    },
+    {
+      "title": "Help!",
+      "artist": "The Beatles",
+      "year": 1965,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg",
+      "notes": "Fifth studio album for the Fab Four",
+      "userId": 12,
+      "id": 35
+    },
+    {
+      "title": "Rubber Soul",
+      "artist": "The Beatles",
+      "year": 1965,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg",
+      "notes": "My favorite album of all time. Bought at a pawn shop in Austin TX",
+      "userId": 13,
+      "id": 36
+    },
+    {
+      "title": "Revolver",
+      "artist": "The Beatles",
+      "year": 1966,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg",
+      "notes": "I'm the Tax Man!",
+      "userId": 14,
+      "id": 37
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "artist": "The Beatles",
+      "year": 1967,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+      "notes": "BIIIIILLLLYYYYYYY SHEEAAAARRRRRRSSSSSS",
+      "userId": 15,
+      "id": 38
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "artist": "The Beatles",
+      "year": 1967,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e8/MagicalMysteryTourDoubleEPcover.jpg",
+      "notes": "This album was released at the peak of the Beatles psychedelic phase",
+      "userId": 16,
+      "id": 39
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg",
+      "notes": "The Beatles' final studio album, released a month after their breakup",
+      "userId": 17,
+      "id": 40
+    },
+    {
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "year": 1979,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Wall_Cover.svg",
+      "notes": "How can you have any pudding if you don't eat your meat?",
+      "userId": 18,
+      "id": 41
+    },
+    {
+      "title": "A Collection of Great Dance Songs",
+      "artist": "Pink Floyd",
+      "year": 1981,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/86/Pink_Floyd_A_Collection_of_Great_Dance_Songs%21_1997_Remastered_CD-300.jpg",
+      "notes": "Compilation album featuring alternative mixes of \"Shine On You Crazy Diamond\", \"Money\", and \"Another Brick In The Wall (Pt. II)\"",
+      "userId": 19,
+      "id": 42
+    },
+    {
+      "title": "Animals",
+      "artist": "Pink Floyd",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/74/Pink_Floyd-Animals-Frontal.jpg",
+      "notes": "Self-recorded by Pink Floyd in their studio in London",
+      "userId": 20,
+      "id": 43
+    },
+    {
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a4/Pink_Floyd%2C_Wish_You_Were_Here_%281975%29.png",
+      "notes": "Received as a birthday present in 1976",
+      "userId": 11,
+      "id": 44
+    },
+    {
+      "title": "Obscured by Clouds",
+      "artist": "Pink Floyd",
+      "year": 1972,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ef/Pink_Floyd_-_Obscured_by_Clouds.jpg",
+      "notes": "Acoustic-heavy Pink Floyd album. One of my favorites",
+      "userId": 2,
+      "id": 45
+    },
+    {
+      "title": "Meddle",
+      "artist": "Pink Floyd",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/d4/MeddleCover.jpeg",
+      "notes": "Great songs, but not a terribly popular Pink Floyd album",
+      "userId": 3,
+      "id": 46
+    },
+    {
+      "title": "Atom Heart Mother",
+      "artist": "Pink Floyd",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2e/AtomHeartMotherCover.jpeg",
+      "notes": "My uncle gave this to me when I first starting playing guitar in 1988 and it's been influential to me as a musician",
+      "userId": 4,
+      "id": 47
+    },
+    {
+      "title": "Ummagumma",
+      "artist": "Pink Floyd",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/16/PinkFloyd-album-ummagummastudio-300.jpg",
+      "notes": "Double album! Found in a friend's basement and he let me keep it.",
+      "userId": 5,
+      "id": 48
+    },
+    {
+      "title": "More",
+      "artist": "Pink Floyd",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/40/MoreCover.jpg",
+      "notes": "Soundtrack album by Pink Floyd featured in movie of the same name",
+      "userId": 6,
+      "id": 49
+    },
+    {
+      "title": "A Saucerful of Secrets",
+      "artist": "Pink Floyd",
+      "year": 1968,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/54/Saucerful_of_secrets2.jpg",
+      "notes": "Last album for Syd Barrett, to be replaced during recording of this album by David Gilmour",
+      "userId": 7,
+      "id": 50
+    },
+    {
+      "title": "The Piper at the Gates of Dawn",
+      "artist": "Pink Floyd",
+      "year": 1967,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/3c/PinkFloyd-album-piperatthegatesofdawn_300.jpg",
+      "notes": "Debut album by this new band called \"Pink Floyd\". Stupid name, but I hope they go far...",
+      "userId": 8,
+      "id": 51
+    },
+    {
+      "title": "Yellow Submarine",
+      "artist": "The Beatles",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg",
+      "notes": "B Side contains the orchestral score from the animated of the same name",
+      "userId": 9,
+      "id": 52
+    },
+    {
+      "title": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "year": 1964,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg",
+      "notes": "All 13 tracks written by Lennon-McCartney, solidifying them as one of the greatest songwriting duos of all time",
+      "userId": 10,
+      "id": 53
+    },
+    {
+      "title": "With The Beatles",
+      "artist": "The Beatles",
+      "year": 1963,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg",
+      "notes": "Very much still clean-cut boy band from Liverpool. \"It Won't Be Long\", \"All My Loving\"",
+      "userId": 11,
+      "id": 54
+    },
+    {
+      "title": "Legend",
+      "artist": "Bob Marley and The Wailers",
+      "year": 1984,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg",
+      "notes": "Best Selling reggae album of all time!",
+      "userId": 20,
+      "id": 55
+    },
+    {
+      "title": "Highway To Hell",
+      "artist": "AC/DC",
+      "year": 1979,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/ac/Acdc_Highway_to_Hell.JPG",
+      "notes": "Last album to feature singer Bon Scott before his death in early 1980",
+      "userId": 18,
+      "id": 56
+    },
+    {
+      "title": "Confrontation",
+      "artist": "Bob Marley and The Wailers",
+      "year": 1983,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/bb/BobMarley-Confrontation.jpg",
+      "notes": "Released in 1983, two years after Marley's death using unreleased materials and singles from previous studio sessions",
+      "userId": 17,
+      "id": 57
+    },
+    {
+      "title": "Uprising",
+      "artist": "Bob Marley and The Wailers",
+      "year": 1980,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0a/BobMarley%26theWailersUprising.jpg",
+      "notes": "Last studio album to be released before Bob's death",
+      "userId": 18,
+      "id": 58
+    },
+    {
+      "title": "Past Masters",
+      "artist": "The Beatles",
+      "year": 1988,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Past_Maters.PNG",
+      "notes": "Double LP compilation album considered The Beatles' final \"major\" release",
+      "userId": 19,
+      "id": 59
+    },
+    {
+      "title": "One Dozen Roses",
+      "artist": "Smokey Robinson & The Miracles",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/95/Miracles-1970-onedozenroses.jpg",
+      "notes": "\"Tears of A Clown\" is my jam!",
+      "userId": 1,
+      "id": 60
+    },
+    {
+      "title": "Four in Blue",
+      "artist": "Smokey Robinson & The Miracles",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/5e/Four_in_Blue.jpeg",
+      "notes": "Covers of \"Hey Jude\" by The Beatles and \"You've Lost That Lovin' Feelin'\" by The Righteous Brothers",
+      "userId": 20,
+      "id": 61
+    },
+    {
+      "title": "Make It Happen",
+      "artist": "Smokey Robinson & The Miracles",
+      "year": 1967,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b1/Miracles-make-it-happen.jpg",
+      "notes": "Released as \"Make It Happen\" in 1967, then re-released as \"Tears of a Clown\" in 1970 after the single was released",
+      "userId": 2,
+      "id": 62
+    },
+    {
+      "title": "Songs in The Key of Life",
+      "artist": "Stevie Wonder",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e2/Songs_in_the_key_of_life.jpg",
+      "notes": "\"Sir Duke\", \"Isn't She Lovely\", \"I Wish\"",
+      "userId": 1,
+      "id": 63
+    },
+    {
+      "title": "Signed, Sealed, Delivered",
+      "artist": "Stevie Wonder",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/53/Signedsealeddelivered.JPG",
+      "notes": "\"Signed, Sealed Delivered, I'm Yours\", also a Beatles cover \"We Can Work It Out\"",
+      "userId": 3,
+      "id": 64
+    },
+    {
+      "title": "The Jazz Soul of Little Stevie",
+      "artist": "Stevie Wonder",
+      "year": 1962,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/ac/Jazzsoul.jpg",
+      "notes": "Debut Stevie Wonder album - recorded when he was twelve!",
+      "userId": 1,
+      "id": 65
+    },
+    {
+      "title": "If You Want Blood You've Got It",
+      "artist": "AC/DC",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f6/Acdc_If_You_Want_Blood_You%27ve_Got_It.JPG",
+      "notes": "Only live album with Bon Scott before he died",
+      "userId": 4,
+      "id": 66
+    },
+    {
+      "title": "Powerage",
+      "artist": "AC/DC",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/de/Acdc_Powerage.JPG",
+      "notes": "Picked up at a yard sale in Bend, OR in 1994",
+      "userId": 5,
+      "id": 67
+    },
+    {
+      "title": "Let There Be Rock",
+      "artist": "AC/DC",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/d7/ACDC-LetThereBeRock.jpg",
+      "notes": "\"Whole Lotta Rosie\". Pure rock album!",
+      "userId": 6,
+      "id": 68
+    },
+    {
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/51/Dirty_Deeds_Done_Dirt_Cheap_%28ACDC_album_-_cover_art0.jpg",
+      "notes": "Dirty Deeds! Done! Dirt! Cheap!",
+      "userId": 7,
+      "id": 69
+    },
+    {
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fc/Acdc_high_voltage_international_album.jpg",
+      "notes": "\"It's A Long Way To The Top (If You Wanna Rock 'N' Roll)\"",
+      "userId": 8,
+      "id": 70
+    },
+    {
+      "title": "Led Zeppelin",
+      "artist": "Led Zeppelin",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png",
+      "notes": "Debut album! Bought off Ebay in 2011. \"Communication Breakdown\", \"Dazed and Confused\", \"Babe, I'm Gonna Leave You\"",
+      "userId": 1,
+      "id": 71
+    },
+    {
+      "title": "Led Zeppelin II",
+      "artist": "Led Zeppelin",
+      "year": 1969,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg",
+      "notes": "\"Whole Lotta Love\", \"Ramble On\"",
+      "userId": 9,
+      "id": 72
+    },
+    {
+      "title": "Led Zeppelin III",
+      "artist": "Led Zeppelin",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png",
+      "notes": "\"Immigrant Song\"",
+      "userId": 10,
+      "id": 73
+    },
+    {
+      "title": "Led Zeppelin IV (Untitled)",
+      "artist": "Led Zeppelin",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+      "notes": "THE BEST ZEPPELIN ALBUM. \"Stairway To Heaven\", \"Rock and Roll\", \"Going To California\", \"Black Dog\"",
+      "userId": 11,
+      "id": 74
+    },
+    {
+      "title": "Houses of the Holy",
+      "artist": "Led Zeppelin",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg",
+      "notes": "\"D'yer Maker\", \"No Quarter\", \"Over The Hills and Far Away\"",
+      "userId": 12,
+      "id": 75
+    },
+    {
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg",
+      "notes": "\"Kashmir\", \"Trampled Under Foot\"",
+      "userId": 13,
+      "id": 76
+    },
+    {
+      "title": "Presence",
+      "artist": "Led Zeppelin",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f3/Led_Zeppelin_-_Presence.jpg",
+      "notes": "Not my favorite, but Zeppelin is Zeppelin",
+      "userId": 14,
+      "id": 77
+    },
+    {
+      "title": "The Song Remains The Same",
+      "artist": "Led Zeppelin",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b4/Led_Zeppelin_-_The_Song_Remains_the_Same.jpg",
+      "notes": "Live soundtrack album of the concert film of the same name",
+      "userId": 15,
+      "id": 78
+    },
+    {
+      "title": "",
+      "artist": "Led Zeppelin",
+      "year": 1979,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/ba/Led_Zeppelin_-_In_Through_the_Out_Door.jpg",
+      "notes": "Eighth and final studio album by Led Zeppelin. \"Fool in the Rain\", \"All My Love\"",
+      "userId": 16,
+      "id": 79
+    },
+    {
+      "title": "Coda",
+      "artist": "Led Zeppelin",
+      "year": 1982,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Led_Zeppelin_-_Coda.jpg",
+      "notes": "Compilation album featuring previously unused tracks",
+      "userId": 17,
+      "id": 80
+    },
+    {
+      "title": "Black Sabbath",
+      "artist": "Black Sabbath",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/da/Black_Sabbath_debut_album.jpg",
+      "notes": "First time I heard this album was the first time I heard metal music. Changed my life.",
+      "userId": 18,
+      "id": 81
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "year": 1970,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg",
+      "notes": "\"Paranoid\", \"Iron Man\", \"War Pigs\"",
+      "userId": 19,
+      "id": 82
+    },
+    {
+      "title": "Vol. 4",
+      "artist": "Black Sabbath",
+      "year": 1972,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/59/Black_Sabbath_Vol._4.png",
+      "notes": "First Sabbath album produced by guitarist Tony Iommi",
+      "userId": 20,
+      "id": 83
+    },
+    {
+      "title": "Master of Reality",
+      "artist": "Black Sabbath",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/40/Bsmor.jpg",
+      "notes": "One of the greatest heavy metal albums of all time. HEAVY",
+      "userId": 1,
+      "id": 84
+    },
+    {
+      "title": "Sabbath Bloody Sabbath",
+      "artist": "Black Sabbath",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/3b/Black_Sabbath_SbS.jpg",
+      "notes": "\"Killing Yourself To Live\"",
+      "userId": 2,
+      "id": 85
+    },
+    {
+      "title": "Babylon by Bus",
+      "artist": "Bob Marley and The Wailers",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/ca/BobMarley-BabylonByBus.jpg",
+      "notes": "\"Is This Love\", \"Jammin\", \"Stir It Up\"",
+      "userId": 1,
+      "id": 86
+    },
+    {
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/84/MarvinGayeWhat%27sGoingOnalbumcover.jpg",
+      "notes": "\"What's Going On\", \"Inner City Blues\"",
+      "userId": 3,
+      "id": 87
+    },
+    {
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/6/69/Let%27s_Get_It_On.jpg",
+      "notes": "\"Let's Get It On\", \"Just To Keep You Satisfied\"",
+      "userId": 4,
+      "id": 88
+    },
+    {
+      "title": "Trouble Man",
+      "artist": "Marvin Gaye",
+      "year": 1972,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/85/Marvintrouble.jpg",
+      "notes": "Soundtrack album to movie of same name",
+      "userId": 5,
+      "id": 89
+    },
+    {
+      "title": "Spinners",
+      "artist": "The Spinners",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/93/Spinners_cover.jpg",
+      "notes": "\"I'll Be Around\", \"Could It Be I'm Falling In Love\"",
+      "userId": 6,
+      "id": 90
+    },
+    {
+      "title": "The Original Spinners",
+      "artist": "The Spinners",
+      "year": 1967,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/The_Original_spinners_album.jpg",
+      "notes": "Debut album. \"That's What Girls Are For\"",
+      "userId": 7,
+      "id": 91
+    },
+    {
+      "title": "Happiness is Being with the Spinners",
+      "artist": "The Spinners",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/92/Happinessisbeingwiththespinners.jpg",
+      "notes": "\"Rubberband Man\". Found at a yard sale in Cherry Hill NJ",
+      "userId": 8,
+      "id": 92
+    },
+    {
+      "title": "Chaka",
+      "artist": "Chaka Khan",
+      "year": 1978,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/1c/Chaka_Khan_-_Chaka_%281978_album%29.jpg",
+      "notes": "Debut album. \"I'm Every Woman\"",
+      "userId": 9,
+      "id": 93
+    },
+    {
+      "title": "Naughty",
+      "artist": "Chaka Khan",
+      "year": 1980,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b3/ChakaKhanNaughty.jpg",
+      "notes": "Background vocals by a sixteen year old girl named \"Whitney Houston\"",
+      "userId": 10,
+      "id": 94
+    },
+    {
+      "title": "Rags to Rufus",
+      "artist": "Rufus, Chaka Khan",
+      "year": 1974,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/Rags_to_Rufus.jpg",
+      "notes": "Featuring Chaka Khan and songwriting by Stevie Wonder",
+      "userId": 11,
+      "id": 95
+    },
+    {
+      "title": "Mothership Connection",
+      "artist": "Parliament",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ef/ParliamentMothershipConnection.jpg",
+      "notes": "Quintessential funk album",
+      "userId": 12,
+      "id": 96
+    },
+    {
+      "title": "Chocolate City",
+      "artist": "Parliament",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/ca/ParliamentChocolateCityalbumcover.jpg",
+      "notes": "You cannot listen to this album and be in a bad mood. Gets you groovin!",
+      "userId": 13,
+      "id": 97
+    },
+    {
+      "title": "The Clones of Dr. Funkenstein",
+      "artist": "Parliament",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a4/Parliament-The_Clones_of_Dr._Funkenstein_%28album_cover%29.jpg",
+      "notes": "\"Do That Stuff\", \"Dr. Funkenstein\"",
+      "userId": 14,
+      "id": 98
+    },
+    {
+      "title": "Computer Games",
+      "artist": "George Clinton",
+      "year": 1982,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2a/George_Clinton-Computer_Games_%28album_cover%29.jpg",
+      "notes": "First George Clinton solo album, though most of the tracks were recorded by previous band members",
+      "userId": 15,
+      "id": 99
+    },
+    {
+      "title": "Sex Machine Today",
+      "artist": "James Brown",
+      "year": 1975,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2e/James_Brown_Sex_Machine_Today.jpg",
+      "notes": "\"Sex Machine\" parts I and II, \"I Feel Good\"",
+      "userId": 16,
+      "id": 100
+    },
+    {
+      "title": "The Payback",
+      "artist": "James Brown",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/40/Jb-the-payback.jpg",
+      "notes": "\"The Payback\". Brown's only studio album to be certified gold",
+      "userId": 17,
+      "id": 101
+    },
+    {
+      "title": "Just As I Am",
+      "artist": "Bill Withers",
+      "year": 1971,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2a/Withers-justasiamcoverart.JPG",
+      "notes": "Debut Bill Withers album. \"Ain't No Sunshine\", \"Grandma's Hands\"",
+      "userId": 18,
+      "id": 102
+    },
+    {
+      "title": "Still Bill",
+      "artist": "Bill Withers",
+      "year": 1972,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/19/Still_Bill.jpg",
+      "notes": "\"Use Me\", \"Lean On Me\", \"Kissing My Love\"",
+      "userId": 19,
+      "id": 103
+    },
+    {
+      "title": "Menagerie",
+      "artist": "Bill Withers",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f8/Billwithersmenagerie.jpg",
+      "notes": "\"Lovely Day\". Found at Grimey's in Nashville TN",
+      "userId": 20,
+      "id": 104
+    },
+    {
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "year": 1976,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2e/Breezin_GB.jpg",
+      "notes": "Certified baby-making music",
+      "userId": 1,
+      "id": 105
     }
   ]
 }
