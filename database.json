@@ -6,7 +6,8 @@
       "userName": "jsweet89",
       "email": "jtsweeten@gmail.com",
       "location": "Nashville TN",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://thespongeclub.com/wp-content/uploads/2022/05/squidward-plays-clarinet-e1653387115296.png"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "userName": "spaceJamz",
       "email": "allhailgathorplthorp.com",
       "location": "Whitefish MT",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://as2.ftcdn.net/v2/jpg/04/41/24/61/1000_F_441246190_sPXN5WQXZsBDwyFDJHSrv6wcmjBG6kDU.jpg"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "userName": "FlavortownMayor",
       "email": "mayorofflavortown@aol.com",
       "location": "Miami FL",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle-icons-flame.svg"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "userName": "StarshipTrooper",
       "email": "byGrabtharsHammer@netscape.net",
       "location": "Culver City CA",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://as1.ftcdn.net/v2/jpg/04/33/17/96/1000_F_433179657_qf85e9RnuDwPujKy8Tvh7STBQqEMD4Ou.jpg"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "userName": "CountryLuvr87",
       "email": "awHank92@gmail.com",
       "location": "El Paso TX",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://qph.cf2.quoracdn.net/main-qimg-fb35f63d27dae7e7194911cd757cebbf-lq"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "userName": "GimmieThoseClassix",
       "email": "girlisonfire@firefox.com",
       "location": "New York City NY",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as2.ftcdn.net/v2/jpg/02/26/43/65/1000_F_226436529_ZWsUWBHfeXv7zhdrxlX1pckmGVwvPqJp.jpg"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "userName": "BobKnowsBest",
       "email": "whataboutbob@yahoo.com",
       "location": "San Bernadino CA",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://www.tshirtsonscreen.com/wp-content/uploads/2020/02/whataboutbobdonthasslemimlocaltshirtbillmurray-1024x658.jpg"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "userName": "PunkoRamaVol9",
       "email": "prosk8er4real@gmail.com",
       "location": "Detroit MI",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as1.ftcdn.net/v2/jpg/02/07/74/38/1000_F_207743816_RXDV8x2QWB35nbHUUJu6JcPwejuSn0M5.jpg"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "userName": "JukeboxMan81",
       "email": "johndeeregreen@netscape.net",
       "location": "Birmingham AL",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as1.ftcdn.net/v2/jpg/04/72/89/52/1000_F_472895222_YALHZXrKgmn0juSCtIITpk1ubV55L4UV.jpg"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "userName": "AcousticCat",
       "email": "allUrRowdyFriends@aol.com",
       "location": "Lexington KY",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://st2.depositphotos.com/3244893/10911/v/950/depositphotos_109117462-stock-illustration-acoustic-guitar-icon.jpg"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "userName": "MisterDoubtfire",
       "email": "hotjambalaya@disney.com",
       "location": "Beverly Hills CA",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://s.yimg.com/ny/api/res/1.2/_rKXkr7WcQacaqPy5yLcEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY2MDtjZj13ZWJw/https://media.zenfs.com/en/people_218/9838af19b4255bdbac4dd1342d55e6fe"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "userName": "ShowMeWhatYouGot",
       "email": "worldender42@yahoo.com",
       "location": "Gloucester MA",
-      "admin": true
+      "admin": true,
+      "userIcon": "https://as1.ftcdn.net/v2/jpg/05/03/60/28/1000_F_503602807_wzoZh5oHAe9LuFOQsi0GLyUmns2ztMYe.jpg"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "userName": "FivePartHarmony",
       "email": "outofSYNC@gmail.com",
       "location": "Orlando FL",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as2.ftcdn.net/v2/jpg/01/78/44/55/1000_F_178445554_TE95cETAPpwuuNipI2whDjgqS5yZKWKd.jpg"
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "userName": "FiddleNSteel",
       "email": "kingofthewildfrontier@compaq.com",
       "location": "Little Rock AR",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://assets.classicfm.com/2014/34/thinkstock-violin-photos-1409319916-view-0.jpg"
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "userName": "BluesBrother",
       "email": "SchmoSchmiddley@netscape.net",
       "location": "Chicago IL",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://upload.wikimedia.org/wikipedia/en/f/f5/BluesBrothers.jpg"
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "userName": "CallMeSlowhand",
       "email": "literallyEricClapton@gmail.com",
       "location": "Allentown PA",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as2.ftcdn.net/v2/jpg/03/15/06/77/1000_F_315067736_MDDNWUHy2zU2GjDKVbur506DlngA7W7K.jpg"
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "userName": "BachstreetBoi",
       "email": "POTUSnumeroDOS@aol.com",
       "location": "Alexandria VA",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://interlude-cdn-blob-prod.azureedge.net/interlude-blob-storage-prod/2021/08/bachglasses2.jpg"
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "userName": "PumpTheJamz",
       "email": "BallAllDay@yahoo.com",
       "location": "Gary IN",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as2.ftcdn.net/v2/jpg/03/52/65/97/1000_F_352659717_HiQ04vlMm0D4FWPp6oXTUa1TX1w7lhAs.jpg"
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "userName": "LifeOfIllusion420",
       "email": "joewalsh72@gmail.com",
       "location": "Reno NV",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://upload.wikimedia.org/wikipedia/en/7/75/Joe_Walsh_-_But_Seriously_Folks.jpg"
     },
     {
       "id": 20,
@@ -158,7 +177,8 @@
       "userName": "MetalMuzik666",
       "email": "George4man@microsoft.com",
       "location": "Oklahoma City OK",
-      "admin": false
+      "admin": false,
+      "userIcon": "https://as1.ftcdn.net/v2/jpg/03/97/18/38/1000_F_397183867_dbX7ojLL8ahZt79RnG0O0wikbhrHrIYL.jpg"
     }
   ],
   "albums": [
