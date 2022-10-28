@@ -885,7 +885,7 @@
       "id": 78
     },
     {
-      "title": "",
+      "title": "In Through the Out Door",
       "artist": "Led Zeppelin",
       "year": 1979,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/ba/Led_Zeppelin_-_In_Through_the_Out_Door.jpg",
@@ -1468,6 +1468,15 @@
       "notes": "Debut album! \"Marrakesh Express\", \"Suite: Judy Blue Eyes\", \"Helplessly Hoping\"",
       "userId": 1,
       "id": 143
+    },
+    {
+      "title": "Underdog",
+      "artist": "Atlanta Rhythm Section",
+      "year": 1979,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fd/Atlanta_Rhythm_Section_-_Underdog.jpg",
+      "notes": "\"Spooky\", \"Do It or Die\". Groovy rock!",
+      "userId": 1,
+      "id": 144
     }
   ]
 }
