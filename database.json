@@ -1478,5 +1478,945 @@
       "userId": 1,
       "id": 144
     }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Rock"
+    },
+    {
+      "id": 2,
+      "name": "Blues"
+    },
+    {
+      "id": 3,
+      "name": "Jazz"
+    },
+    {
+      "id": 4,
+      "name": "Country"
+    },
+    {
+      "id": 5,
+      "name": "Soul"
+    },
+    {
+      "id": 6,
+      "name": "Funk"
+    },
+    {
+      "id": 7,
+      "name": "Classical/Soundtrack"
+    },
+    {
+      "id": 8,
+      "name": "Reggae"
+    },
+    {
+      "id": 9,
+      "name": "Metal"
+    }
+  ],
+  "albumGenres": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "genreId": 1 
+    },
+    {
+      "id": 2,
+      "albumId": 2,
+      "genreId": 1
+    },
+    {
+      "id": 3,
+      "albumId": 3,
+      "genreId": 1
+    },
+    {
+      "id": 4,
+      "albumId": 3,
+      "genreId": 3 
+    },
+    {
+      "id": 5,
+      "albumId": 4,
+      "genreId": 1 
+    },
+    {
+      "id": 6,
+      "albumId": 5,
+      "genreId": 2
+    },
+    {
+      "id": 7,
+      "albumId": 5,
+      "genreId": 3
+    },
+    {
+      "id": 8,
+      "albumId": 6,
+      "genreId": 1
+    },
+    {
+      "id": 9,
+      "albumId": 7,
+      "genreId": 1
+    },
+    {
+      "id": 10,
+      "albumId": 8,
+      "genreId": 1
+    },
+    {
+      "id": 11,
+      "albumId": 8,
+      "genreId": 4
+    },
+    {
+      "id": 12,
+      "albumId": 9,
+      "genreId": 1
+    },
+    {
+      "id": 13,
+      "albumId": 9,
+      "genreId": 5
+    },
+    {
+      "id": 14,
+      "albumId": 10,
+      "genreId": 1
+    },
+    {
+      "id": 15,
+      "albumId": 11,
+      "genreId": 1
+    },
+    {
+      "id": 16,
+      "albumId": 12,
+      "genreId": 1
+    },
+    {
+      "id": 17,
+      "albumId": 13,
+      "genreId": 1
+    },
+    {
+      "id": 18,
+      "albumId": 14,
+      "genreId": 1
+    },
+    {
+      "id": 19,
+      "albumId": 14,
+      "genreId": 4
+    },
+    {
+      "id": 20,
+      "albumId": 15,
+      "genreId": 5
+    },
+    {
+      "id": 21,
+      "albumId": 15,
+      "genreId": 6
+    },
+    {
+      "id": 22,
+      "albumId": 16,
+      "genreId": 4
+    },
+    {
+      "id": 23,
+      "albumId": 17,
+      "genreId": 5
+    },
+    {
+      "id": 24,
+      "albumId": 17,
+      "genreId": 7
+    },
+    {
+      "id": 25,
+      "albumId": 18,
+      "genreId": 3
+    },
+    {
+      "id": 26,
+      "albumId": 19,
+      "genreId": 5
+    },
+    {
+      "id": 27,
+      "albumId": 20,
+      "genreId": 5
+    },
+    {
+      "id": 28,
+      "albumId": 21,
+      "genreId": 1
+    },
+    {
+      "id": 29,
+      "albumId": 22,
+      "genreId": 1
+    },
+    {
+      "id": 30,
+      "albumId": 23,
+      "genreId": 1
+    },
+    {
+      "id": 31,
+      "albumId": 24,
+      "genreId": 1
+    },
+    {
+      "id": 32,
+      "albumId": 25,
+      "genreId": 1
+    },
+    {
+      "id": 33,
+      "albumId": 26,
+      "genreId": 7
+    },
+    {
+      "id": 34,
+      "albumId": 27,
+      "genreId": 5
+    },
+    {
+      "id": 35,
+      "albumId": 28,
+      "genreId": 1
+    },
+    {
+      "id": 36,
+      "albumId": 29,
+      "genreId": 1
+    },
+    {
+      "id": 37,
+      "albumId": 30,
+      "genreId": 1
+    },
+    {
+      "id": 38,
+      "albumId": 31,
+      "genreId": 1
+    },
+    {
+      "id": 39,
+      "albumId": 32,
+      "genreId": 1
+    },
+    {
+      "id": 40,
+      "albumId": 33,
+      "genreId": 1
+    },
+    {
+      "id": 41,
+      "albumId": 34,
+      "genreId": 1
+    },
+    {
+      "id": 42,
+      "albumId": 35,
+      "genreId": 1
+    },
+    {
+      "id": 43,
+      "albumId": 36,
+      "genreId": 1
+    },
+    {
+      "id": 44,
+      "albumId": 37,
+      "genreId": 1
+    },
+    {
+      "id": 45,
+      "albumId": 38,
+      "genreId": 1
+    },
+    {
+      "id": 46,
+      "albumId": 39,
+      "genreId": 1
+    },
+    {
+      "id": 47,
+      "albumId": 40,
+      "genreId": 1
+    },
+    {
+      "id": 48,
+      "albumId": 41,
+      "genreId": 1
+    },
+    {
+      "id": 49,
+      "albumId": 42,
+      "genreId": 1
+    },
+    {
+      "id": 50,
+      "albumId": 43,
+      "genreId": 1
+    },
+    {
+      "id": 51,
+      "albumId": 44,
+      "genreId": 1
+    },
+    {
+      "id": 52,
+      "albumId": 45,
+      "genreId": 1
+    },
+    {
+      "id": 53,
+      "albumId": 46,
+      "genreId": 1
+    },
+    {
+      "id": 54,
+      "albumId": 47,
+      "genreId": 1
+    },
+    {
+      "id": 55,
+      "albumId": 48,
+      "genreId": 1
+    },
+    {
+      "id": 56,
+      "albumId": 49,
+      "genreId": 1
+    },
+    {
+      "id": 57,
+      "albumId": 50,
+      "genreId": 1
+    },
+    {
+      "id": 58,
+      "albumId": 51,
+      "genreId": 1
+    },
+    {
+      "id": 59,
+      "albumId": 52,
+      "genreId": 1
+    },
+    {
+      "id": 60,
+      "albumId": 53,
+      "genreId": 1
+    },
+    {
+      "id": 61,
+      "albumId": 54,
+      "genreId": 1
+    },
+    {
+      "id": 62,
+      "albumId": 55,
+      "genreId": 8
+    },
+    {
+      "id": 63,
+      "albumId": 56,
+      "genreId": 1
+    },
+    {
+      "id": 64,
+      "albumId": 57,
+      "genreId": 8
+    },
+    {
+      "id": 65,
+      "albumId": 58,
+      "genreId": 8
+    },
+    {
+      "id": 66,
+      "albumId": 59,
+      "genreId": 1
+    },
+    {
+      "id": 67,
+      "albumId": 60,
+      "genreId": 5
+    },
+    {
+      "id": 68,
+      "albumId": 61,
+      "genreId": 5
+    },
+    {
+      "id": 69,
+      "albumId": 62,
+      "genreId": 5
+    },
+    {
+      "id": 70,
+      "albumId": 63,
+      "genreId": 5
+    },
+    {
+      "id": 71,
+      "albumId": 63,
+      "genreId": 6
+    },
+    {
+      "id": 72,
+      "albumId": 63,
+      "genreId": 2
+    },
+    {
+      "id": 73,
+      "albumId": 64,
+      "genreId": 5
+    },
+    {
+      "id": 74,
+      "albumId": 64,
+      "genreId": 6
+    },
+    {
+      "id": 75,
+      "albumId": 64,
+      "genreId": 2
+    },
+    {
+      "id": 76,
+      "albumId": 65,
+      "genreId": 5
+    },
+    {
+      "id": 77,
+      "albumId": 65,
+      "genreId": 6
+    },
+    {
+      "id": 78,
+      "albumId": 65,
+      "genreId": 2
+    },
+    {
+      "id": 79,
+      "albumId": 66,
+      "genreId": 1
+    },
+    {
+      "id": 80,
+      "albumId": 67,
+      "genreId": 1
+    },
+    {
+      "id": 81,
+      "albumId": 68,
+      "genreId": 1
+    },
+    {
+      "id": 82,
+      "albumId": 69,
+      "genreId": 1
+    },
+    {
+      "id": 83,
+      "albumId": 70,
+      "genreId": 1
+    },
+    {
+      "id": 84,
+      "albumId": 71,
+      "genreId": 1
+    },
+    {
+      "id": 85,
+      "albumId": 72,
+      "genreId": 1
+    },
+    {
+      "id": 86,
+      "albumId": 73,
+      "genreId": 1
+    },
+    {
+      "id": 87,
+      "albumId": 74,
+      "genreId": 1
+    },
+    {
+      "id": 88,
+      "albumId": 75,
+      "genreId": 1
+    },
+    {
+      "id": 89,
+      "albumId": 76,
+      "genreId": 1
+    },
+    {
+      "id": 90,
+      "albumId": 77,
+      "genreId": 1
+    },
+    {
+      "id": 91,
+      "albumId": 78,
+      "genreId": 1
+    },
+    {
+      "id": 92,
+      "albumId": 79,
+      "genreId": 1
+    },
+    {
+      "id": 93,
+      "albumId": 80,
+      "genreId": 1
+    },
+    {
+      "id": 94,
+      "albumId": 81,
+      "genreId": 9
+    },
+    {
+      "id": 95,
+      "albumId": 82,
+      "genreId": 9
+    },
+    {
+      "id": 96,
+      "albumId": 83,
+      "genreId": 9
+    },
+    {
+      "id": 97,
+      "albumId": 84,
+      "genreId": 9
+    },
+    {
+      "id": 98,
+      "albumId": 85,
+      "genreId": 9
+    },
+    {
+      "id": 99,
+      "albumId": 86,
+      "genreId": 8
+    },
+    {
+      "id": 100,
+      "albumId": 87,
+      "genreId": 5
+    },
+    {
+      "id": 101,
+      "albumId": 88,
+      "genreId": 5
+    },
+    {
+      "id": 102,
+      "albumId": 89,
+      "genreId": 5
+    },
+    {
+      "id": 103,
+      "albumId": 90,
+      "genreId": 5
+    },
+    {
+      "id": 104,
+      "albumId": 91,
+      "genreId": 5
+    },
+    {
+      "id": 105,
+      "albumId": 92,
+      "genreId": 5
+    },
+    {
+      "id": 106,
+      "albumId": 93,
+      "genreId": 5
+    },
+    {
+      "id": 107,
+      "albumId": 93,
+      "genreId": 6
+    },
+    {
+      "id": 108,
+      "albumId": 94,
+      "genreId": 5
+    },
+    {
+      "id": 109,
+      "albumId": 94,
+      "genreId": 6
+    },
+    {
+      "id": 110,
+      "albumId": 95,
+      "genreId": 5
+    },
+    {
+      "id": 111,
+      "albumId": 95,
+      "genreId": 6
+    },
+    {
+      "id": 112,
+      "albumId": 96,
+      "genreId": 6
+    },
+    {
+      "id": 113,
+      "albumId": 97,
+      "genreId": 6
+    },
+    {
+      "id": 114,
+      "albumId": 98,
+      "genreId": 6
+    },
+    {
+      "id": 115,
+      "albumId": 99,
+      "genreId": 6
+    },
+    {
+      "id": 116,
+      "albumId": 100,
+      "genreId": 5
+    },
+    {
+      "id": 117,
+      "albumId": 100,
+      "genreId": 6
+    },
+    {
+      "id": 118,
+      "albumId": 101,
+      "genreId": 5
+    },
+    {
+      "id": 119,
+      "albumId": 101,
+      "genreId": 6
+    },
+    {
+      "id": 120,
+      "albumId": 102,
+      "genreId": 5
+    },
+    {
+      "id": 121,
+      "albumId": 102,
+      "genreId": 2
+    },
+    {
+      "id": 122,
+      "albumId": 103,
+      "genreId": 2
+    },
+    {
+      "id": 123,
+      "albumId": 103,
+      "genreId": 5
+    },
+    {
+      "id": 124,
+      "albumId": 104,
+      "genreId": 5
+    },
+    {
+      "id": 125,
+      "albumId": 104,
+      "genreId": 2
+    },
+    {
+      "id": 126,
+      "albumId": 105,
+      "genreId": 3
+    },
+    {
+      "id": 127,
+      "albumId": 106,
+      "genreId": 1
+    },
+    {
+      "id": 128,
+      "albumId": 107,
+      "genreId": 1
+    },
+    {
+      "id": 129,
+      "albumId": 107,
+      "genreId": 9
+    },
+    {
+      "id": 130,
+      "albumId": 108,
+      "genreId": 1
+    },
+    {
+      "id": 131,
+      "albumId": 108,
+      "genreId": 9
+    },
+    {
+      "id": 132,
+      "albumId": 109,
+      "genreId": 1
+    },
+    {
+      "id": 133,
+      "albumId": 109,
+      "genreId": 9
+    },
+    {
+      "id": 134,
+      "albumId": 110,
+      "genreId": 3
+    },
+    {
+      "id": 135,
+      "albumId": 111,
+      "genreId": 1
+    },
+    {
+      "id": 136,
+      "albumId": 112,
+      "genreId": 1
+    },
+    {
+      "id": 137,
+      "albumId": 113,
+      "genreId": 1
+    },
+    {
+      "id": 138,
+      "albumId": 114,
+      "genreId": 1
+    },
+    {
+      "id": 139,
+      "albumId": 115,
+      "genreId": 1
+    },
+    {
+      "id": 140,
+      "albumId": 116,
+      "genreId": 1
+    },
+    {
+      "id": 141,
+      "albumId": 117,
+      "genreId": 1
+    },
+    {
+      "id": 142,
+      "albumId": 118,
+      "genreId": 1
+    },
+    {
+      "id": 143,
+      "albumId": 119,
+      "genreId": 1
+    },
+    {
+      "id": 144,
+      "albumId": 120,
+      "genreId": 9
+    },
+    {
+      "id": 145,
+      "albumId": 121,
+      "genreId": 1
+    },
+    {
+      "id": 146,
+      "albumId": 122,
+      "genreId": 1
+    },
+    {
+      "id": 147,
+      "albumId": 123,
+      "genreId": 9
+    },
+    {
+      "id": 148,
+      "albumId": 124,
+      "genreId": 9
+    },
+    {
+      "id": 149,
+      "albumId": 125,
+      "genreId": 9
+    },
+    {
+      "id": 150,
+      "albumId": 126,
+      "genreId": 9
+    },
+    {
+      "id": 151,
+      "albumId": 127,
+      "genreId": 1
+    },
+    {
+      "id": 152,
+      "albumId": 127,
+      "genreId": 3
+    },
+    {
+      "id": 153,
+      "albumId": 128,
+      "genreId": 1
+    },
+    {
+      "id": 154,
+      "albumId": 128,
+      "genreId": 3
+    },
+    {
+      "id": 155,
+      "albumId": 129,
+      "genreId": 1
+    },
+    {
+      "id": 156,
+      "albumId": 129,
+      "genreId": 3
+    },
+    {
+      "id": 157,
+      "albumId": 130,
+      "genreId": 1
+    },
+    {
+      "id": 158,
+      "albumId": 130,
+      "genreId": 3
+    },
+    {
+      "id": 159,
+      "albumId": 131,
+      "genreId": 1
+    },
+    {
+      "id": 160,
+      "albumId": 131,
+      "genreId": 3
+    },
+    {
+      "id": 161,
+      "albumId": 132,
+      "genreId": 1
+    },
+    {
+      "id": 162,
+      "albumId": 132,
+      "genreId": 3
+    },
+    {
+      "id": 163,
+      "albumId": 133,
+      "genreId": 1
+    },
+    {
+      "id": 164,
+      "albumId": 133,
+      "genreId": 3
+    },
+    {
+      "id": 165,
+      "albumId": 134,
+      "genreId": 1
+    },
+    {
+      "id": 166,
+      "albumId": 134,
+      "genreId": 2
+    },
+    {
+      "id": 167,
+      "albumId": 135,
+      "genreId": 1
+    },
+    {
+      "id": 168,
+      "albumId": 135,
+      "genreId": 2
+    },
+    {
+      "id": 169,
+      "albumId": 136,
+      "genreId": 4
+    },
+    {
+      "id": 170,
+      "albumId": 137,
+      "genreId": 4
+    },
+    {
+      "id": 171,
+      "albumId": 138,
+      "genreId": 4
+    },
+    {
+      "id": 172,
+      "albumId": 139,
+      "genreId": 4
+    },
+    {
+      "id": 173,
+      "albumId": 140,
+      "genreId": 4
+    },
+    {
+      "id": 174,
+      "albumId": 141,
+      "genreId": 4
+    },
+    {
+      "id": 175,
+      "albumId": 142,
+      "genreId": 4
+    },
+    {
+      "id": 176,
+      "albumId": 143,
+      "genreId": 1
+    },
+    {
+      "id": 177,
+      "albumId": 143,
+      "genreId": 4
+    },
+    {
+      "id": 178,
+      "albumId": 144,
+      "genreId": 6
+    },
+    {
+      "id": 179,
+      "albumId": 144,
+      "genreId": 2
+    },
+    {
+      "id": 180,
+      "albumId": 144,
+      "genreId": 1
+    }
   ]
 }
