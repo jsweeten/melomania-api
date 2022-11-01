@@ -1240,7 +1240,7 @@
       "artist": "Steppenwolf",
       "year": 1968,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/10/SteppenwolfTheSecond.jpg",
-      "notes": "Biggest album for the Canadian-American rock band. Features \"Magic Carpet Ride\"",
+      "notes": "Biggest album for the Canadian-American rock band. Features \"Magic Carpet Ride\". Love this album",
       "userId": 16,
       "id": 118
     },
@@ -1521,7 +1521,7 @@
     {
       "id": 1,
       "albumId": 1,
-      "genreId": 1 
+      "genreId": 1
     },
     {
       "id": 2,
@@ -1536,12 +1536,12 @@
     {
       "id": 4,
       "albumId": 3,
-      "genreId": 3 
+      "genreId": 3
     },
     {
       "id": 5,
       "albumId": 4,
-      "genreId": 1 
+      "genreId": 1
     },
     {
       "id": 6,
