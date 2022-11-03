@@ -1477,6 +1477,33 @@
       "notes": "\"Spooky\", \"Do It or Die\". Groovy rock!",
       "userId": 1,
       "id": 144
+    },
+    {
+      "title": "Honky Tonk Heroes",
+      "artist": "Waylon Jennings",
+      "year": 1973,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/98/WaylonJenningsHonkyTonkHeroes.jpg",
+      "notes": "Big album for Waylon!",
+      "userId": 10,
+      "id": 146
+    },
+    {
+      "title": "Street Survivors",
+      "artist": "Lynyrd Skynyrd",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/bf/StreetSurvivorsFlames.jpg",
+      "notes": "Released three days before the plane crash that killed most of the band members",
+      "userId": 10,
+      "id": 147
+    },
+    {
+      "title": "Changes in Latitudes, Changes in Attitudes",
+      "artist": "Jimmy Buffett",
+      "year": 1977,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/97/Buffettchanges.jpg",
+      "notes": "\"Margaritaville\"",
+      "userId": 10,
+      "id": 148
     }
   ],
   "genres": [
@@ -2417,6 +2444,31 @@
       "id": 180,
       "albumId": 144,
       "genreId": 1
+    },
+    {
+      "albumId": 146,
+      "genreId": 4,
+      "id": 183
+    },
+    {
+      "albumId": 147,
+      "genreId": 1,
+      "id": 184
+    },
+    {
+      "albumId": 147,
+      "genreId": 4,
+      "id": 185
+    },
+    {
+      "albumId": 148,
+      "genreId": 4,
+      "id": 186
+    },
+    {
+      "albumId": 148,
+      "genreId": 1,
+      "id": 187
     }
   ]
 }
