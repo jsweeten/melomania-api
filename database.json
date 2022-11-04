@@ -213,9 +213,9 @@
       "id": 4,
       "title": "Love Songs",
       "artist": "The Beatles",
-      "year": 1977,
+      "year": 1975,
       "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f7/TheBeatlesLoveSongsalbumcover.jpg",
-      "notes": "Received as a gift for my 33rd birthday",
+      "notes": "Received as a gift for my 33rd birthday, i love this thing",
       "userId": 1
     },
     {
@@ -1504,6 +1504,15 @@
       "notes": "\"Margaritaville\"",
       "userId": 10,
       "id": 148
+    },
+    {
+      "title": "Second Helping",
+      "artist": "Lynyrd Skynyrd",
+      "year": 1974,
+      "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c5/SecondHelpingLynyrdSkynyrd.jpg",
+      "notes": "\"Sweet Home Alabama\", \"Ballad of Curtis Loew\", \"Call Me The Breeze\"",
+      "userId": 5,
+      "id": 149
     }
   ],
   "genres": [
@@ -2426,11 +2435,6 @@
       "genreId": 1
     },
     {
-      "id": 177,
-      "albumId": 143,
-      "genreId": 4
-    },
-    {
       "id": 178,
       "albumId": 144,
       "genreId": 6
@@ -2469,6 +2473,21 @@
       "albumId": 148,
       "genreId": 1,
       "id": 187
+    },
+    {
+      "albumId": 143,
+      "genreId": 4,
+      "id": 191
+    },
+    {
+      "albumId": 149,
+      "genreId": 4,
+      "id": 192
+    },
+    {
+      "albumId": 149,
+      "genreId": 1,
+      "id": 193
     }
   ]
 }
